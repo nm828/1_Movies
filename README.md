@@ -22,7 +22,7 @@ Time spent: **8 hours**
 ### App Walkthough GIF
 Here's a walkthrough of implemented user stories:
 
-<img src="Movie1_Walkthrough.gif" width=250><br>
+<img src="Movie1_Walkthrough.gif" width='' atl='Video Walkthrough'/>
 
 ### Notes
 Describe any challenges encountered while building the app.
